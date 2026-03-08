@@ -144,13 +144,13 @@ This visualization supports the correlation result and shows that the relationsh
 
 The analysis led to the following overall conclusions:
 
-- users tend to give **medium to high ratings**
-- user activity is **not evenly distributed**
+- Users tend to give **medium to high ratings**
+- User activity is **not evenly distributed**
 - **Drama** and **Comedy** dominate the dataset in terms of frequency
-- genres such as **Film-Noir** and **War** receive higher average ratings
-- most movies receive only a small number of ratings
-- tag usage is concentrated around a few recurring expressions
-- there is only a **weak relationship** between movie popularity and average rating
+- Genres such as **Film-Noir** and **War** receive higher average ratings
+- Most movies receive only a small number of ratings
+- Tag usage is concentrated around a few recurring expressions
+- There is only a **weak relationship** between movie popularity and average rating
 
 Overall, this project demonstrates that **Polars** can be used effectively to perform fast, structured, and readable exploratory data analysis on a relational dataset.
 
